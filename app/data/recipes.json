@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "image": "https://source.unsplash.com/200x200/?pasta",
+      "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan", "Black Pepper"]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Biryani",
+      "image": "https://source.unsplash.com/200x200/?biryani",
+      "ingredients": ["Rice", "Chicken", "Yogurt", "Spices", "Onions"]
+    },
+    {
+      "id": 3,
+      "name": "Avocado Toast",
+      "image": "https://source.unsplash.com/200x200/?avocado",
+      "ingredients": ["Bread", "Avocado", "Salt", "Pepper", "Lemon"]
+    }
+  ]
+  
