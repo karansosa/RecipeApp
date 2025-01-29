@@ -56,7 +56,6 @@ const HomeScreen = ({ navigation }) => {
           <TouchableOpacity 
             key={index} 
             style={styles.cuisineCard} 
-            onPress={() => navigation.navigate("RecipesScreen")}
           >
             <Image source={{ uri: cuisine.image }} style={styles.cuisineImage} />
             <Text style={styles.cuisineText}>{cuisine.name}</Text>
